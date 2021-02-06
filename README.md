@@ -1,11 +1,11 @@
 ![](https://11.be/sites/default/files/styles/logo/public/2021-01/Logo_purple_dark_flag.png?itok=36MYD7lL)
-# A Photo Gallery, this is my very first project in Hack Your Future Belgium.
+# A Photo :camera: Gallery, this is my very first project in Hack Your Future Belgium.
 ## Topic: A One Page Website to show friends and family pictures of Belgium taken by me.
 ****
-I will use the basics of html5 and ccs3 that i've learned for now. It would be a good experience to compare the results with those ones that I will achieve with the knowledge adquired her at HYF Belgium.
-For now, to be honest, I find that there are a lot of things a little bit confusing, there is a whole bunch of new information and different opinions to get the same results, ones harder than the others :sweat: but is fine, it's part of the procces of learning to discover new paths to solve new situations.
+I will use the basics of html5 and ccs3 that i've learned for now :+1:. It would be a good experience to compare the results with those ones that I will achieve with the knowledge adquired her at HYF Belgium :punch:.
+For now, to be honest, I find that there are a lot of things a little bit confusing, there is a whole bunch of new information and different opinions to get the same results, ones harder than the others :sweat: but is fine, it's part of the procces of learning to discover new paths to solve new situations :v:.
 ****
-This is one of my favorite pictures I'd like to share with my familiy, friends and the HYFbe family:
+This is one of my favorite pictures I'd like to share with my familiy, friends and the HYFbe family :sunglasses::
 
 
 
